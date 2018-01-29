@@ -1,5 +1,3 @@
-
-
 # get weight from user
 weight = int(input("Enter your weight: " ))
 
